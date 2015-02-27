@@ -5,7 +5,7 @@ count-by.js
 
 __Install__
 
-```javascript
+```shell
 npm install count-by
 ```
 __Usage__

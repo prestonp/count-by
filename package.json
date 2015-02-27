@@ -1,0 +1,19 @@
+{
+  "name": "count-by",
+  "version": "1.0.0",
+  "description": "Count by arbitrary object property",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "count",
+    "by",
+    "utility"
+  ],
+  "author": "Preston Pham",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  }
+}

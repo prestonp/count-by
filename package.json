@@ -1,6 +1,6 @@
 {
   "name": "count-by",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Count by arbitrary object property",
   "main": "index.js",
   "scripts": {

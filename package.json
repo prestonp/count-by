@@ -6,6 +6,7 @@
   "scripts": {
     "test": "mocha"
   },
+  "url": "http://github.com/prestonp/count-by",
   "keywords": [
     "count",
     "by",
